@@ -21,6 +21,8 @@ sin, cos, tan, asin, acos, atan, pow, exp, log, ln, +, *, -, /, % and more
 To install-
 just copy the contents of the Unity4/Assets folder into your project's Assets folder
 
+More info at http://www.joshuaglazer.com/blog/inspector-calculator-evaluating-math-inside-unity3d-inspector-fields/
+
 Released under the MIT License:
 
 The MIT License (MIT)
