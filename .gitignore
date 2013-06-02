@@ -6,3 +6,9 @@
 *.csproj
 *.unityproj
 *.sln
+
+Unity4/Assets/.DS_Store
+
+Unity4/Assets/Inspector Calculator/.DS_Store
+
+Unity4/Assets/Inspector Calculator/Editor/.DS_Store
